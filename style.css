@@ -1,0 +1,19 @@
+<style>
+h4 {
+  background: #eeee;
+}
+main {
+  padding: 4%;        
+  background: #eeee;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  background: gray;
+}
+figcaption {
+  text-align: center;
+  background: gray;
+}
+</style>
